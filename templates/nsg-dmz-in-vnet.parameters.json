@@ -3,7 +3,6 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "virtualNetworkName": {
-          "type": "string",
           "defaultValue": "First_ARM_VNet",
           "metadata": {
             "description": "This is your Virtual Network"
